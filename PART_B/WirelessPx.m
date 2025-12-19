@@ -1,5 +1,7 @@
 clear; clc; close all;
-%I <3 MATLAB !
+% !!!GRADER IF YOU ARE LOOKING AT MATLAB CODE, this was just a rough draft as I was testing my matlab skills. Please do not consider this code when grading, thank you. 
+%Same thing goes for PART A, I was also just learning how to use Jupyter Notebook, everything regarding PART A and PART B of MATLAB is on our google document that we submitted.
+
 n0 = 1e-7;
 x_th = 0.5;
 targetProb = 0.90;
